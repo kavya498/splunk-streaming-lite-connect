@@ -9,6 +9,6 @@ entries:
     name: splunk-streaming-lite-connect
     type: application
     urls:
-    - https://anusha718.github.io/splunk-streaming-lite-connect/splunk-streaming-lite-connect-0.1.0.tgz
-    version: 0.1.0
+    - https://raw.githubusercontent.com/kavya498/splunk-streaming-lite-connect/main/
+    version: 0.0.4
 generated: "2021-03-23T15:17:11.056524+05:30"
