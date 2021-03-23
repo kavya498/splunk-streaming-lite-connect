@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  splunk-streaming-lite-connect:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-23T15:17:11.057916+05:30"
+    description: Helm Chart for kafka connect with splunk connector
+    digest: 2d95ace3c472fa224714c1e8b4bfc46a618c9d269dbf309f6d0ad8f9171525cd
+    name: splunk-streaming-lite-connect
+    type: application
+    urls:
+    - https://anusha718.github.io/splunk-streaming-lite-connect/splunk-streaming-lite-connect-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-23T15:17:11.056524+05:30"
