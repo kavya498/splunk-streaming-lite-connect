@@ -10,5 +10,5 @@ entries:
     type: application
     urls:
     - https://raw.githubusercontent.com/kavya498/splunk-streaming-lite-connect/main/
-    version: 0.0.4
+    version: 0.0.5
 generated: "2021-03-23T15:17:11.056524+05:30"
